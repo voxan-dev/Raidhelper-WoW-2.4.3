@@ -1,0 +1,13 @@
+## Interface: 20400
+## Title: Raidhelper
+## Notes: Raid addon with GUI buttons for various functions
+## Author: DAN
+## Version: 1.0
+## X-Category: Raid
+## X-Category: UI
+## X-Category: Utility
+
+## Ace Libraries
+embeds.xml
+
+Raidhelper.lua
